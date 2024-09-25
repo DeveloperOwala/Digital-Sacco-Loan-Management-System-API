@@ -8,7 +8,7 @@ This application covers below API .
    -An API endpoint to calculate the total repayment amount for a loan based on the interest rate and
    term (e.g., calculate the monthly repayment amount using a simple interest formula).
 5. Loan Status Update
-   - An ndpoint to update the loan status (Approved/Rejected).
+   - An endpoint to update the loan status (Approved/Rejected).
 6. Security
    - implemented basic security measures like input validation, token-based
 authentication, and avoiding SQL injection.        
