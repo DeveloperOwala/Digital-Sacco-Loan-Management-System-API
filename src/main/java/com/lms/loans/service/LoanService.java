@@ -20,7 +20,7 @@ public class LoanService {
 
         return loanRepository.save(loan);
     }
-
+//
     public List<Loan> findAllLoan(){
         return loanRepository.findAll();
     }
